@@ -6,13 +6,12 @@ using System.Threading.Tasks;
 
 namespace Shapes
 {
+    /// <summary>
+    /// Круг
+    /// </summary>
     public class Circle : Shape
     {
-        public float Radius
-        {
-            get;
-            private set;
-        }
+        public float Radius { get; private set; }
 
         public Circle(float radius)
         {
