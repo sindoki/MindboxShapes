@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ShapesApp/.vs/ShapesApp/v15
+/ShapesApp/Shapes/obj/Debug
+/ShapesApp/ShapesApp/obj/Debug
